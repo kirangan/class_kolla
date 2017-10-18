@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def apple2(n)
   line = n > 4 ? n : 4
   line = n.odd? ? n - 1 : n

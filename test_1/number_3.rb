@@ -1,5 +1,4 @@
 def palindrome?(n)
-	
 	if n.downcase.split.join == n.downcase.split.join.reverse
 		return true
 	else
